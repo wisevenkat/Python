@@ -1,0 +1,5 @@
+show version
+show ip interface brief
+show runn
+show ip ospf neighbours
+show io route
